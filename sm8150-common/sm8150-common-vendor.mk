@@ -1597,6 +1597,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     vendor.qti.hardware.capabilityconfigstore@1.0 \
     libsdm-disp-apis.qti \
+    Hax \
     NxpNfcNci \
     NxpSecureElement \
     SoterService \
